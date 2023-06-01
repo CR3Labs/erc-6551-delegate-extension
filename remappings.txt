@@ -1,0 +1,11 @@
+@openzeppelin/=lib/contracts/lib/openzeppelin-contracts/
+account-abstraction/=lib/contracts/lib/account-abstraction/contracts/
+contracts/=lib/contracts/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/contracts/lib/openzeppelin-contracts/lib/erc4626-tests/
+erc6551/=lib/contracts/lib/reference/src/
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/contracts/lib/openzeppelin-contracts/contracts/
+reference/=lib/contracts/lib/reference/
+sstore2/=lib/contracts/lib/reference/lib/sstore2/contracts/
+tokenbound/=lib/contracts/src/
